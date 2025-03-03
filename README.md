@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/166bdf5f-8db6-4387-9169-a06e3629e02e)# IT Legend Learning Platform
+# IT Legend Learning Platform
 
 <div align="center">
   <h3>A modern web-based learning platform built with React, TypeScript, and Vite.</h3>
