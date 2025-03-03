@@ -40,7 +40,6 @@ IT Legend Learning Platform is a comprehensive e-learning solution that provides
 
 - **User Experience**
   - 📱 Responsive design for all devices
-  - ⌨️ Keyboard shortcuts support
   - 🎨 Modern UI with Tailwind CSS
   - ⚡ Fast loading with Vite
   - 🔍 Easy course content discovery
@@ -117,7 +116,6 @@ src/
 ### Video Player
 - Custom-built video controls
 - Time-based navigation
-- Keyboard shortcuts for playback control
 - Thumbnail preview on progress bar hover
 - Multiple playback speeds
 
@@ -165,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <p>Don't forget to give the project a star! Thanks for visiting! 🌟</p>
   
-  [![GitHub stars](https://img.shields.io/github/stars/nourmohamed45/new-it-legend-task)](https://github.com/nourmohamed45/new-it-legend-task/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/nourmohamed45/new-it-legend-task)](https://github.com/nourmohamed45/new-it-legend-task/network)
-  [![GitHub issues](https://img.shields.io/github/issues/nourmohamed45/new-it-legend-task)](https://github.com/nourmohamed45/new-it-legend-task/issues)
+  [![GitHub stars](https://img.shields.io/github/stars/nourmohamed45/new-it-legend-task-main)](https://github.com/nourmohamed45/new-it-legend-task-main/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/nourmohamed45/new-it-legend-task-main)](https://github.com/nourmohamed45/new-it-legend-task-main/network)
+  [![GitHub issues](https://img.shields.io/github/issues/nourmohamed45/new-it-legend-task-main)](https://github.com/nourmohamed45/new-it-legend-task-main/issues)
 </div>
