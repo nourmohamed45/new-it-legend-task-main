@@ -1,4 +1,4 @@
-# IT Legend Learning Platform
+![image](https://github.com/user-attachments/assets/166bdf5f-8db6-4387-9169-a06e3629e02e)# IT Legend Learning Platform
 
 <div align="center">
   <h3>A modern web-based learning platform built with React, TypeScript, and Vite.</h3>
@@ -6,6 +6,10 @@
 
   [Live Demo](https://it-legend-task.vercel.app/) | [Report Bug](https://github.com/nourmohamed45/new-it-legend-task-main/issues) | [Request Feature](https://github.com/nourmohamed45/new-it-legend-task-main/issues)
 </div>
+
+
+![App Screenshot](./public/app-screenshot.png)
+![App Performance Screenshot](./public/performance-screenshot.png)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
