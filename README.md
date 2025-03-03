@@ -1,6 +1,6 @@
-# IT Legend Learning Platform
 
 <div align="center">
+  <h1>IT Legend Learning Platform</h1>
   <h3>A modern web-based learning platform built with React, TypeScript, and Vite.</h3>
   <p>Featuring video courses, interactive quizzes, and a student leaderboard system.</p>
 
