@@ -4,7 +4,7 @@
   <h3>A modern web-based learning platform built with React, TypeScript, and Vite.</h3>
   <p>Featuring video courses, interactive quizzes, and a student leaderboard system.</p>
 
-  [Live Demo](https://it-legend-task.vercel.app/) | [Report Bug](https://github.com/nourmohamed45/new-it-legend-task/issues) | [Request Feature](https://github.com/nourmohamed45/new-it-legend-task/issues)
+  [Live Demo](https://it-legend-task.vercel.app/) | [Report Bug](https://github.com/nourmohamed45/new-it-legend-task-main/issues) | [Request Feature](https://github.com/nourmohamed45/new-it-legend-task-main/issues)
 </div>
 
 ## 📋 Table of Contents
